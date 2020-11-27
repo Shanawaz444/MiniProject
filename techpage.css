@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-container {
+    background-color: black;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.lg-card {
+    background-color: #9CC3D5FF;
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606420526/Techpage/abstract-vector-violet-colorful-mesh-sphere-dark-background-corrupted-point-sphere-chaos-aesthetics_1217-2153_vgrxg4.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 570px;
+    margin-bottom: 12px;
+    border-style: solid;
+    border-color: #FFD662FF;
+}
+
+.small-card1 {
+    height: 280px;
+    width: 250px;
+    margin-right: 10px;
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606470049/Techpage/angular_loqolo.png");
+    background-size: cover;
+    background-position: center;
+    background-color: lavenderblush;
+    border-style: solid;
+    border-color: #FFD662FF;
+}
+
+.small-card2 {
+    height: 280px;
+    width: 250px;
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606470047/Techpage/react_vsn7pz.png");
+    background-size: cover;
+    background-position: center;
+    background-color: lavenderblush;
+    border-style: solid;
+    border-color: #FFD662FF;
+}
+
+.small-card3 {
+    height: 280px;
+    width: 250px;
+    margin-right: 10px;
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606470498/Techpage/kotlin_v03z5g.svg");
+    background-size: cover;
+    background-position: center;
+    background-color: lavenderblush;
+    border-style: solid;
+    border-color: #FFD662FF;
+}
+
+.small-card4 {
+    height: 280px;
+    width: 250px;
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606470048/Techpage/c_xtydkg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: lavenderblush;
+    border-style: solid;
+    border-color: #FFD662FF;
+}
+
+.small-card5 {
+    height: 280px;
+    width: 250px;
+    margin-right: 10px;
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606470048/Techpage/flutter_zwu2jq.png");
+    background-size: cover;
+    background-position: center;
+    background-color: lavenderblush;
+    border-style: solid;
+    border-color: #FFD662FF;
+}
+
+.small-card6 {
+    height: 280px;
+    width: 250px;
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606470048/Techpage/Dart_gmwlay.png");
+    background-size: cover;
+    background-position: center;
+    background-color: lavenderblush;
+    border-style: solid;
+    border-color: #FFD662FF;
+}
+
+.small-card7 {
+    height: 280px;
+    width: 250px;
+    margin-right: 10px;
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606470048/Techpage/python_azkckk.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: lavenderblush;
+    border-style: solid;
+    border-color: #FFD662FF;
+}
+
+.small-card8 {
+    height: 280px;
+    width: 250px;
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606470048/Techpage/swift_aycfko.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: lavenderblush;
+    border-style: solid;
+    border-color: #FFD662FF;
+}
+
+.head {
+    text-align: center;
+    color: white;
+    font-family: Bree Serif;
+    margin: 30px;
+}
+
+.head2 {
+    color: white;
+    font-family: Roboto;
+    font-size: 20px;
+}
