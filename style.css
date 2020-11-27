@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.col-forExplore {
+    margin-left: auto;
+    margin-right: 10px;
+}
+
+.container-forExp {
+    height: 570px;
+    width: 350px;
+    max-width: 400px;
+    background-color: red;
+    margin-left: 0;
+    margin-right: auto;
+    background-image: url("tech.jpg");
+    background-position: center;
+    animation: ease-in-out;
+    transition: 1.0s;
+}
+
+.container-forExp:hover {
+    transition: 1.0s;
+    animation: ease-out;
+    transform: scale(0.95);
+}
+
+.container-forhig {
+    height: 100px;
+    background-color: wheat;
+}
+
+.col-forhig {
+    height: auto;
+    margin-right: 30px;
+}
+
+.row {
+    display: flex;
+}
+
+.row-firinner8 {
+    display: flex;
+}
+
+.row-secinner8 {
+    display: flex;
+}
+
+.terdlan1 {
+    height: 280px;
+    width: 250px;
+    background-color: lavenderblush;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: #F8F8F8;
+    font-family: alef;
+}
+
+h2 {
+    text-align: center;
+    color: #F8F8F8;
+    font-family: alef;
+}
