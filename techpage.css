@@ -13,7 +13,13 @@
     height: 570px;
     margin-bottom: 12px;
     border-style: solid;
-    border-color: #FFD662FF;
+    border-color: #2e3e57;
+}
+
+.lg-card:hover {
+    transition: 0.5s;
+    animation: ease-out;
+    transform: scale(0.95);
 }
 
 .small-card1 {
@@ -25,7 +31,13 @@
     background-position: center;
     background-color: lavenderblush;
     border-style: solid;
-    border-color: #FFD662FF;
+    border-color: #2e3e57;
+}
+
+.small-card1:hover {
+    transition: 0.5s;
+    animation: ease-out;
+    transform: scale(0.95);
 }
 
 .small-card2 {
@@ -36,7 +48,13 @@
     background-position: center;
     background-color: lavenderblush;
     border-style: solid;
-    border-color: #FFD662FF;
+    border-color: #2e3e57;
+}
+
+.small-card2:hover {
+    transition: 0.5s;
+    animation: ease-out;
+    transform: scale(0.95);
 }
 
 .small-card3 {
@@ -48,18 +66,30 @@
     background-position: center;
     background-color: lavenderblush;
     border-style: solid;
-    border-color: #FFD662FF;
+    border-color: #2e3e57;
+}
+
+.small-card3:hover {
+    transition: 0.5s;
+    animation: ease-out;
+    transform: scale(0.95);
 }
 
 .small-card4 {
     height: 280px;
     width: 250px;
-    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606470048/Techpage/c_xtydkg.jpg");
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606490175/Techpage/code-in-c-sharp-for-your-project_wqtrff.jpg");
     background-size: cover;
     background-position: center;
     background-color: lavenderblush;
     border-style: solid;
-    border-color: #FFD662FF;
+    border-color: #2e3e57;
+}
+
+.small-card4:hover {
+    transition: 0.5s;
+    animation: ease-out;
+    transform: scale(0.95);
 }
 
 .small-card5 {
@@ -71,7 +101,13 @@
     background-position: center;
     background-color: lavenderblush;
     border-style: solid;
-    border-color: #FFD662FF;
+    border-color: #2e3e57;
+}
+
+.small-card5:hover {
+    transition: 0.5s;
+    animation: ease-out;
+    transform: scale(0.95);
 }
 
 .small-card6 {
@@ -82,19 +118,31 @@
     background-position: center;
     background-color: lavenderblush;
     border-style: solid;
-    border-color: #FFD662FF;
+    border-color: #2e3e57;
+}
+
+.small-card6:hover {
+    transition: 0.5s;
+    animation: ease-out;
+    transform: scale(0.95);
 }
 
 .small-card7 {
     height: 280px;
     width: 250px;
     margin-right: 10px;
-    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606470048/Techpage/python_azkckk.jpg");
+    background-image: url("https://res.cloudinary.com/killuax27/image/upload/v1606489978/Techpage/programming-programming-language-python-programming-logo-hd-wallpaper-preview_n7loyc.jpg");
     background-size: cover;
     background-position: center;
     background-color: lavenderblush;
     border-style: solid;
-    border-color: #FFD662FF;
+    border-color: #2e3e57;
+}
+
+.small-card7:hover {
+    transition: 0.5s;
+    animation: ease-out;
+    transform: scale(0.95);
 }
 
 .small-card8 {
@@ -105,7 +153,13 @@
     background-position: center;
     background-color: lavenderblush;
     border-style: solid;
-    border-color: #FFD662FF;
+    border-color: #2e3e57;
+}
+
+.small-card8:hover {
+    transition: 0.5s;
+    animation: ease-out;
+    transform: scale(0.95);
 }
 
 .head {
@@ -119,4 +173,12 @@
     color: white;
     font-family: Roboto;
     font-size: 20px;
+}
+
+p {
+    color: White;
+    font-weight: bold;
+    text-align: center;
+    font-size: 18px;
+    margin: 5px;
 }
